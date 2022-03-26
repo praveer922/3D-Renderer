@@ -1,0 +1,2 @@
+C:\Users\tewar\Documents\Projects\OpenGL\Project1\x64\Debug\Project1.exe
+C:\Users\tewar\Documents\Projects\OpenGL\learn-opengl\Project1\x64\Debug\Project1.exe
