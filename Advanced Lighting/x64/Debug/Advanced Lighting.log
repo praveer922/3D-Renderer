@@ -1,0 +1,4 @@
+﻿  glad.c
+  Main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Advanced Lighting.vcxproj -> C:\Users\tewar\Documents\Projects\OpenGL\3D Renderer\Advanced Lighting\x64\Debug\Advanced Lighting.exe

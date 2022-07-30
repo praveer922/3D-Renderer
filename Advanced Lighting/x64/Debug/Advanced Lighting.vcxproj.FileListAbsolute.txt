@@ -1,0 +1,2 @@
+C:\Users\tewar\Documents\Projects\OpenGL\learn-opengl\Advanced Lighting\x64\Debug\Advanced Lighting.exe
+C:\Users\tewar\Documents\Projects\OpenGL\3D Renderer\Advanced Lighting\x64\Debug\Advanced Lighting.exe

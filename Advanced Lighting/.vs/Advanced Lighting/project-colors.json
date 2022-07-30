@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b2b220b-70d8-4735-a39b-cd14a3feab21": {
+      "ProjectGuid": "6b2b220b-70d8-4735-a39b-cd14a3feab21",
+      "DisplayName": "Advanced Lighting",
+      "ColorIndex": 0
+    },
+    "df85f2a6-beb2-4a8f-84be-31485cce8e1a": {
+      "ProjectGuid": "df85f2a6-beb2-4a8f-84be-31485cce8e1a",
+      "DisplayName": "Model_Instancing",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
